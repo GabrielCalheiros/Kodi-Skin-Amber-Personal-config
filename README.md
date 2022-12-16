@@ -1,8 +1,4 @@
 skin.amber
 ==========
 
-Amber skin for Kodi
-
-Master branch: Kodi Matrix
-
-Leia branch: Kodi Leia
+Personal config, fonts and backgrounds for amber skin
